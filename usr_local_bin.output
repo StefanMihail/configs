@@ -1,120 +1,119 @@
-total 325144
-drwxrwxrwx  119 stefan.cociobea  admin   3.7K  3 Sep 07:54 .
-drwxr-xr-x   16 root             wheel   512B 12 Jan  2021 ..
--rw-r--r--    1 stefan.cociobea  admin     0B 25 Jul  2020 .keepme
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 23 Jun 15:23 2to3 -> ../Cellar/python@3.9/3.9.5/bin/2to3
-lrwxr-xr-x    1 stefan.cociobea  admin    39B 23 Jun 15:23 2to3-3.9 -> ../Cellar/python@3.9/3.9.5/bin/2to3-3.9
--r-xr-xr-x    1 root             wheel   386K  3 Sep 07:54 SophosUpdate
-lrwxr-xr-x    1 stefan.cociobea  admin    61B  2 Sep 21:48 ansible -> /Library/Frameworks/Python.framework/Versions/3.6/bin/ansible
-lrwxr-xr-x    1 stefan.cociobea  admin    70B  2 Sep 21:49 ansible-playbook -> /Library/Frameworks/Python.framework/Versions/3.6/bin/ansible-playbook
-lrwxr-xr-x    1 stefan.cociobea  admin    36B 27 Mar 01:10 autopoint -> ../Cellar/gettext/0.21/bin/autopoint
-lrwxr-xr-x    1 root             admin    22B 24 Jan  2021 aws -> /usr/local/aws-cli/aws
-lrwxr-xr-x    1 stefan.cociobea  admin    63B  4 May 13:45 aws-iam-authenticator -> ../Cellar/aws-iam-authenticator/0.5.3/bin/aws-iam-authenticator
-lrwxr-xr-x    1 root             admin    32B 24 Jan  2021 aws_completer -> /usr/local/aws-cli/aws_completer
-lrwxr-xr-x    1 stefan.cociobea  admin    28B 25 Jul  2020 brew -> /usr/local/Homebrew/bin/brew
-lrwxr-xr-x    1 stefan.cociobea  admin    31B 23 Jun 15:33 cargo -> ../Cellar/rust/1.53.0/bin/cargo
-lrwxr-xr-x    1 stefan.cociobea  admin    33B  2 Aug  2020 clisso -> ../Cellar/clisso/0.7.0/bin/clisso
-lrwxr-xr-x    1 root             admin    62B 23 Jan  2021 com.docker.cli -> /Applications/Docker.app/Contents/Resources/bin/com.docker.cli
-lrwxr-xr-x    1 root             admin    54B 23 Jan  2021 docker -> /Applications/Docker.app/Contents/Resources/bin/docker
-lrwxr-xr-x    1 root             admin    77B 23 Jan  2021 docker-compose -> /Applications/Docker.app/Contents/Resources/bin/docker-compose/docker-compose
-lrwxr-xr-x    1 root             admin    73B 23 Jan  2021 docker-credential-desktop -> /Applications/Docker.app/Contents/Resources/bin/docker-credential-desktop
-lrwxr-xr-x    1 root             admin    75B 23 Jan  2021 docker-credential-ecr-login -> /Applications/Docker.app/Contents/Resources/bin/docker-credential-ecr-login
-lrwxr-xr-x    1 root             admin    77B 23 Jan  2021 docker-credential-osxkeychain -> /Applications/Docker.app/Contents/Resources/bin/docker-credential-osxkeychain
-lrwxr-xr-x    1 stefan.cociobea  admin    34B 25 May 09:30 eksctl -> ../Cellar/eksctl/0.51.0/bin/eksctl
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 27 Mar 01:10 envsubst -> ../Cellar/gettext/0.21/bin/envsubst
-lrwxr-xr-x    1 stefan.cociobea  admin    33B 27 Mar 01:11 gdbm_dump -> ../Cellar/gdbm/1.19/bin/gdbm_dump
-lrwxr-xr-x    1 stefan.cociobea  admin    33B 27 Mar 01:11 gdbm_load -> ../Cellar/gdbm/1.19/bin/gdbm_load
-lrwxr-xr-x    1 stefan.cociobea  admin    32B 27 Mar 01:11 gdbmtool -> ../Cellar/gdbm/1.19/bin/gdbmtool
-lrwxr-xr-x    1 stefan.cociobea  admin    34B 27 Mar 01:10 gettext -> ../Cellar/gettext/0.21/bin/gettext
-lrwxr-xr-x    1 stefan.cociobea  admin    37B 27 Mar 01:10 gettext.sh -> ../Cellar/gettext/0.21/bin/gettext.sh
-lrwxr-xr-x    1 stefan.cociobea  admin    37B 27 Mar 01:10 gettextize -> ../Cellar/gettext/0.21/bin/gettextize
-lrwxr-xr-x    1 stefan.cociobea  admin    51B 23 Jun 15:34 gimme-aws-creds -> ../Cellar/gimme-aws-creds/2.4.1/bin/gimme-aws-creds
-lrwxr-xr-x    1 stefan.cociobea  admin    55B 23 Jun 15:34 gimme-aws-creds.cmd -> ../Cellar/gimme-aws-creds/2.4.1/bin/gimme-aws-creds.cmd
-lrwxr-xr-x    1 stefan.cociobea  admin    36B  3 Jun 15:23 glooctl -> ../Cellar/glooctl/1.7.11/bin/glooctl
--rwxr-xr-x    1 stefan.cociobea  staff    43M  4 Feb  2021 helm
-lrwxr-xr-x    1 root             admin    56B 23 Jan  2021 hub-tool -> /Applications/Docker.app/Contents/Resources/bin/hub-tool
-lrwxr-xr-x    1 root             admin    67B 23 Jan  2021 hyperkit -> /Applications/Docker.app/Contents/Resources/bin/com.docker.hyperkit
-lrwxr-xr-x    1 stefan.cociobea  admin    36B 23 Jun 15:23 idle3 -> ../Cellar/python@3.9/3.9.5/bin/idle3
-lrwxr-xr-x    1 stefan.cociobea  admin    38B 23 Jun 15:23 idle3.9 -> ../Cellar/python@3.9/3.9.5/bin/idle3.9
-lrwxr-xr-x    1 stefan.cociobea  admin    32B 27 Mar 01:10 idn2 -> ../Cellar/libidn2/2.3.0/bin/idn2
-lrwxr-xr-x    1 stefan.cociobea  admin    23B 28 Aug  2020 jq -> ../Cellar/jq/1.6/bin/jq
-lrwxr-xr-x    1 stefan.cociobea  admin    30B 25 May 09:30 kops -> ../Cellar/kops/1.20.1/bin/kops
--rwxr-xr-x    1 stefan.cociobea  staff    48M 29 Jul  2020 kubectl
-lrwxr-xr-x    1 root             admin    55B 23 Jan  2021 kubectl.docker -> /Applications/Docker.app/Contents/Resources/bin/kubectl
-lrwxr-xr-x    1 stefan.cociobea  admin    28B 25 Aug  2020 lzcat -> ../Cellar/xz/5.2.5/bin/lzcat
-lrwxr-xr-x    1 stefan.cociobea  admin    28B 25 Aug  2020 lzcmp -> ../Cellar/xz/5.2.5/bin/lzcmp
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 lzdiff -> ../Cellar/xz/5.2.5/bin/lzdiff
-lrwxr-xr-x    1 stefan.cociobea  admin    30B 25 Aug  2020 lzegrep -> ../Cellar/xz/5.2.5/bin/lzegrep
-lrwxr-xr-x    1 stefan.cociobea  admin    30B 25 Aug  2020 lzfgrep -> ../Cellar/xz/5.2.5/bin/lzfgrep
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 lzgrep -> ../Cellar/xz/5.2.5/bin/lzgrep
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 lzless -> ../Cellar/xz/5.2.5/bin/lzless
-lrwxr-xr-x    1 stefan.cociobea  admin    27B 25 Aug  2020 lzma -> ../Cellar/xz/5.2.5/bin/lzma
-lrwxr-xr-x    1 stefan.cociobea  admin    30B 25 Aug  2020 lzmadec -> ../Cellar/xz/5.2.5/bin/lzmadec
-lrwxr-xr-x    1 stefan.cociobea  admin    31B 25 Aug  2020 lzmainfo -> ../Cellar/xz/5.2.5/bin/lzmainfo
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 lzmore -> ../Cellar/xz/5.2.5/bin/lzmore
-lrwxr-xr-x    1 root             admin    98B  7 Jun 10:38 meta -> /Library/Application Support/MetaNetworks/meta-agent-service.app/Contents/Resources/meta-agent-cli
-lrwxr-xr-x    1 stefan.cociobea  admin    40B 25 May 09:30 minikube -> ../Cellar/minikube/1.20.0_1/bin/minikube
-lrwxr-xr-x    1 stefan.cociobea  admin    36B 27 Mar 01:10 msgattrib -> ../Cellar/gettext/0.21/bin/msgattrib
-lrwxr-xr-x    1 stefan.cociobea  admin    33B 27 Mar 01:10 msgcat -> ../Cellar/gettext/0.21/bin/msgcat
-lrwxr-xr-x    1 stefan.cociobea  admin    33B 27 Mar 01:10 msgcmp -> ../Cellar/gettext/0.21/bin/msgcmp
-lrwxr-xr-x    1 stefan.cociobea  admin    34B 27 Mar 01:10 msgcomm -> ../Cellar/gettext/0.21/bin/msgcomm
-lrwxr-xr-x    1 stefan.cociobea  admin    32B 27 Mar 01:10 msgen -> ../Cellar/gettext/0.21/bin/msgen
-lrwxr-xr-x    1 stefan.cociobea  admin    34B 27 Mar 01:10 msgexec -> ../Cellar/gettext/0.21/bin/msgexec
-lrwxr-xr-x    1 stefan.cociobea  admin    36B 27 Mar 01:10 msgfilter -> ../Cellar/gettext/0.21/bin/msgfilter
-lrwxr-xr-x    1 stefan.cociobea  admin    33B 27 Mar 01:10 msgfmt -> ../Cellar/gettext/0.21/bin/msgfmt
-lrwxr-xr-x    1 stefan.cociobea  admin    34B 27 Mar 01:10 msggrep -> ../Cellar/gettext/0.21/bin/msggrep
-lrwxr-xr-x    1 stefan.cociobea  admin    34B 27 Mar 01:10 msginit -> ../Cellar/gettext/0.21/bin/msginit
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 27 Mar 01:10 msgmerge -> ../Cellar/gettext/0.21/bin/msgmerge
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 27 Mar 01:10 msgunfmt -> ../Cellar/gettext/0.21/bin/msgunfmt
-lrwxr-xr-x    1 stefan.cociobea  admin    34B 27 Mar 01:10 msguniq -> ../Cellar/gettext/0.21/bin/msguniq
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 27 Mar 01:10 ngettext -> ../Cellar/gettext/0.21/bin/ngettext
-lrwxr-xr-x    1 root             admin    54B 23 Jan  2021 notary -> /Applications/Docker.app/Contents/Resources/bin/notary
-lrwxr-xr-x    1 stefan.cociobea  admin    46B 28 Aug  2020 onig-config -> ../Cellar/oniguruma/6.9.5-rev1/bin/onig-config
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 25 Jul  2020 pcre-config -> ../Cellar/pcre/8.44/bin/pcre-config
-lrwxr-xr-x    1 stefan.cociobea  admin    32B 25 Jul  2020 pcregrep -> ../Cellar/pcre/8.44/bin/pcregrep
-lrwxr-xr-x    1 stefan.cociobea  admin    32B 25 Jul  2020 pcretest -> ../Cellar/pcre/8.44/bin/pcretest
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 23 Jun 15:24 pip3 -> ../Cellar/python@3.9/3.9.5/bin/pip3
-lrwxr-xr-x    1 stefan.cociobea  admin    37B 23 Jun 15:24 pip3.9 -> ../Cellar/python@3.9/3.9.5/bin/pip3.9
-lrwxr-xr-x    1 stefan.cociobea  admin    44B 23 Jun 15:24 pkg-config -> ../Cellar/pkg-config/0.29.2_3/bin/pkg-config
-lrwxr-xr-x    1 stefan.cociobea  admin    37B 23 Jun 15:23 pydoc3 -> ../Cellar/python@3.9/3.9.5/bin/pydoc3
-lrwxr-xr-x    1 stefan.cociobea  admin    39B 23 Jun 15:23 pydoc3.9 -> ../Cellar/python@3.9/3.9.5/bin/pydoc3.9
-lrwxr-xr-x    1 stefan.cociobea  admin    38B 23 Jun 15:23 python3 -> ../Cellar/python@3.9/3.9.5/bin/python3
-lrwxr-xr-x    1 stefan.cociobea  admin    45B 23 Jun 15:23 python3-config -> ../Cellar/python@3.9/3.9.5/bin/python3-config
-lrwxr-xr-x    1 stefan.cociobea  admin    40B 23 Jun 15:23 python3.9 -> ../Cellar/python@3.9/3.9.5/bin/python3.9
-lrwxr-xr-x    1 stefan.cociobea  admin    47B 23 Jun 15:23 python3.9-config -> ../Cellar/python@3.9/3.9.5/bin/python3.9-config
-lrwxr-xr-x    1 stefan.cociobea  admin    42B 27 Mar 01:10 recode-sr-latin -> ../Cellar/gettext/0.21/bin/recode-sr-latin
-lrwxr-xr-x    1 stefan.cociobea  admin    34B 23 Jun 15:33 rust-gdb -> ../Cellar/rust/1.53.0/bin/rust-gdb
-lrwxr-xr-x    1 stefan.cociobea  admin    37B 23 Jun 15:33 rust-gdbgui -> ../Cellar/rust/1.53.0/bin/rust-gdbgui
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 23 Jun 15:33 rust-lldb -> ../Cellar/rust/1.53.0/bin/rust-lldb
-lrwxr-xr-x    1 stefan.cociobea  admin    31B 23 Jun 15:33 rustc -> ../Cellar/rust/1.53.0/bin/rustc
-lrwxr-xr-x    1 stefan.cociobea  admin    33B 23 Jun 15:33 rustdoc -> ../Cellar/rust/1.53.0/bin/rustdoc
-lrwxr-xr-x    1 stefan.cociobea  admin    36B 25 May 12:10 sam -> ../Cellar/aws-sam-cli/1.23.0/bin/sam
-lr-xr-xr-x    1 root             wheel    81B  4 Mar  2021 seadmin -> /Library/Sophos Encryption/Sophos Encryption Agent.app/Contents/Resources/seadmin
-lrwxr-xr-x    1 root             admin    58B 12 Jan  2021 session-manager-plugin -> /usr/local/sessionmanagerplugin/bin/session-manager-plugin
-lrwxr-xr-x    1 stefan.cociobea  admin    41B 25 May 12:15 shellcheck -> ../Cellar/shellcheck/0.7.2/bin/shellcheck
--r-xr-xr-x    1 root             wheel   438K  3 Aug 13:00 sweep
-lrwxr-xr-x    1 stefan.cociobea  admin    30B  1 Oct  2020 telnet -> ../Cellar/telnet/63/bin/telnet
-lrwxr-xr-x    1 stefan.cociobea  admin    59B  7 Jun 12:25 terraform -> /Users/stefan.cociobea/.terraform.versions/terraform_0.14.8
-lrwxr-xr-x    1 stefan.cociobea  admin    50B 24 Oct  2020 terraform-docs -> ../Cellar/terraform-docs/0.10.1/bin/terraform-docs
--rwxr-xr-x    1 stefan.cociobea  staff    67M  2 Oct  2020 terraform_0.12.29
-lrwxr-xr-x    1 stefan.cociobea  admin    39B 15 Sep  2020 tfswitch -> ../Cellar/tfswitch/0.8.832/bin/tfswitch
-lrwxr-xr-x    1 stefan.cociobea  admin    29B  3 Mar  2021 tree -> ../Cellar/tree/1.8.0/bin/tree
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 unlzma -> ../Cellar/xz/5.2.5/bin/unlzma
-lrwxr-xr-x    1 stefan.cociobea  admin    27B 25 Aug  2020 unxz -> ../Cellar/xz/5.2.5/bin/unxz
-lrwxr-xr-x    1 root             admin    65B 23 Jan  2021 vpnkit -> /Applications/Docker.app/Contents/Resources/bin/com.docker.vpnkit
-lrwxr-xr-x    1 stefan.cociobea  admin    32B 25 May 12:17 watch -> ../Cellar/watch/3.3.17/bin/watch
-lrwxr-xr-x    1 stefan.cociobea  admin    30B 27 Mar 01:11 wget -> ../Cellar/wget/1.21.1/bin/wget
-lrwxr-xr-x    1 stefan.cociobea  admin    37B 23 Jun 15:24 wheel3 -> ../Cellar/python@3.9/3.9.5/bin/wheel3
-lrwxr-xr-x    1 stefan.cociobea  admin    35B 27 Mar 01:10 xgettext -> ../Cellar/gettext/0.21/bin/xgettext
-lrwxr-xr-x    1 stefan.cociobea  admin    25B 25 Aug  2020 xz -> ../Cellar/xz/5.2.5/bin/xz
-lrwxr-xr-x    1 stefan.cociobea  admin    28B 25 Aug  2020 xzcat -> ../Cellar/xz/5.2.5/bin/xzcat
-lrwxr-xr-x    1 stefan.cociobea  admin    28B 25 Aug  2020 xzcmp -> ../Cellar/xz/5.2.5/bin/xzcmp
-lrwxr-xr-x    1 stefan.cociobea  admin    28B 25 Aug  2020 xzdec -> ../Cellar/xz/5.2.5/bin/xzdec
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 xzdiff -> ../Cellar/xz/5.2.5/bin/xzdiff
-lrwxr-xr-x    1 stefan.cociobea  admin    30B 25 Aug  2020 xzegrep -> ../Cellar/xz/5.2.5/bin/xzegrep
-lrwxr-xr-x    1 stefan.cociobea  admin    30B 25 Aug  2020 xzfgrep -> ../Cellar/xz/5.2.5/bin/xzfgrep
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 xzgrep -> ../Cellar/xz/5.2.5/bin/xzgrep
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 xzless -> ../Cellar/xz/5.2.5/bin/xzless
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Aug  2020 xzmore -> ../Cellar/xz/5.2.5/bin/xzmore
-lrwxr-xr-x    1 stefan.cociobea  admin    25B 25 Jul  2020 zsh -> ../Cellar/zsh/5.8/bin/zsh
-lrwxr-xr-x    1 stefan.cociobea  admin    29B 25 Jul  2020 zsh-5.8 -> ../Cellar/zsh/5.8/bin/zsh-5.8
+.
+..
+.keepme
+2to3
+2to3-3.9
+SophosUpdate
+ansible
+ansible-playbook
+autopoint
+aws
+aws-iam-authenticator
+aws_completer
+brew
+cargo
+clisso
+com.docker.cli
+docker
+docker-compose
+docker-credential-desktop
+docker-credential-ecr-login
+docker-credential-osxkeychain
+eksctl
+envsubst
+gdbm_dump
+gdbm_load
+gdbmtool
+gettext
+gettext.sh
+gettextize
+gimme-aws-creds
+gimme-aws-creds.cmd
+glooctl
+helm
+hub-tool
+hyperkit
+idle3
+idle3.9
+idn2
+jq
+kops
+kubectl
+kubectl.docker
+lzcat
+lzcmp
+lzdiff
+lzegrep
+lzfgrep
+lzgrep
+lzless
+lzma
+lzmadec
+lzmainfo
+lzmore
+meta
+minikube
+msgattrib
+msgcat
+msgcmp
+msgcomm
+msgen
+msgexec
+msgfilter
+msgfmt
+msggrep
+msginit
+msgmerge
+msgunfmt
+msguniq
+ngettext
+notary
+onig-config
+pcre-config
+pcregrep
+pcretest
+pip3
+pip3.9
+pkg-config
+pydoc3
+pydoc3.9
+python3
+python3-config
+python3.9
+python3.9-config
+recode-sr-latin
+rust-gdb
+rust-gdbgui
+rust-lldb
+rustc
+rustdoc
+sam
+seadmin
+session-manager-plugin
+shellcheck
+sweep
+telnet
+terraform
+terraform-docs
+terraform_0.12.29
+tfswitch
+tree
+unlzma
+unxz
+vpnkit
+watch
+wget
+wheel3
+xgettext
+xz
+xzcat
+xzcmp
+xzdec
+xzdiff
+xzegrep
+xzfgrep
+xzgrep
+xzless
+xzmore
+zsh
+zsh-5.8
