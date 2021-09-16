@@ -98,7 +98,7 @@ alias history='fc -il 1'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias python=python3
-alias  oncall="curl -X GET 'https://api.opsgenie.com/v2/schedules/CloudOps_24_7_support_schedule/on-calls?scheduleIdentifierType=name&flat=true' --header 'Authorization: GenieKey 110f0fd6-2e30-464f-87a8' | jq '.data.onCallRecipients'"
+#alias  oncall="curl -X GET 'https://api.opsgenie.com/v2/schedules/CloudOps_24_7_support_schedule/on-calls?scheduleIdentifierType=name&flat=true' --header 'Authorization: GenieKey | jq '.data.onCallRecipients'"
 alias myip="curl ifconfig.me/ip"
 
 #======================================================================
